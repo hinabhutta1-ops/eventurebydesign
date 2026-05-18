@@ -81,8 +81,6 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { name: "twitter:card", content: "summary" },
       { name: "twitter:title", content: "EventureByDesign — Luxury Event Planning, Watford UK" },
       { name: "twitter:description", content: "EventureByDesign crafts immersive luxury weddings, corporate galas and private celebrations. Designed experiences. Unforgettable moments." },
-      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/4aaf6662-5d77-48fd-81ca-e8835370a2b6/id-preview-1c8618e0--e69ede8d-17fc-44ac-bdcd-bf9cafc3e4c0.lovable.app-1778885030032.png" },
-      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/4aaf6662-5d77-48fd-81ca-e8835370a2b6/id-preview-1c8618e0--e69ede8d-17fc-44ac-bdcd-bf9cafc3e4c0.lovable.app-1778885030032.png" },
     ],
     links: [
       { rel: "preconnect", href: "https://fonts.googleapis.com" },
